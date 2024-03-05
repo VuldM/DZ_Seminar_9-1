@@ -1,0 +1,6 @@
+В данном уроке мы переходим к созданию мобильной версии проекта
+
+https://www.figma.com/file/mnLY69cYE5cqWM5w6n5hXx/Seo-%26-Digital-Marketing-Landing-Page?type=design&node-id=189-839&mode=design&t=yf9GwpKOVre8iSzX-0
+
+1.	Создать медиа запрос, чтобы наш проект отлично смотрелся на разрешениях экрана 320-767
+2.	Создать мобильную версию проекта
